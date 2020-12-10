@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "MinIO", "MinIO\MinIO.sfproj", "{83CA95CA-F5E8-4FE8-B405-44911D7FBBC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83CA95CA-F5E8-4FE8-B405-44911D7FBBC1}.Debug|x64.ActiveCfg = Debug|x64
+		{83CA95CA-F5E8-4FE8-B405-44911D7FBBC1}.Debug|x64.Build.0 = Debug|x64
+		{83CA95CA-F5E8-4FE8-B405-44911D7FBBC1}.Debug|x64.Deploy.0 = Debug|x64
+		{83CA95CA-F5E8-4FE8-B405-44911D7FBBC1}.Release|x64.ActiveCfg = Release|x64
+		{83CA95CA-F5E8-4FE8-B405-44911D7FBBC1}.Release|x64.Build.0 = Release|x64
+		{83CA95CA-F5E8-4FE8-B405-44911D7FBBC1}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6E0635A-F637-4A4F-84C0-08F5F1A93704}
+	EndGlobalSection
+EndGlobal
