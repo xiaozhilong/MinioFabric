@@ -1,0 +1,2 @@
+# MinioFabric
+minio fabric demo
